@@ -1,0 +1,121 @@
+
+    <!DOCTYPE html>
+<html>
+<head>
+        <meta charset="UTF-8"/>
+        <title>Choose your satisfactory flight</title>
+        <style>
+            div { 
+                color: hsl(9, 97%, 49%); 
+                font-size: 24pt;      
+            } 
+            </style>
+    
+</head>
+<div id = "header"> Choose your satisfactory flight</div>
+<p> The table below is the final result based on your selection!</p>
+<body>
+
+
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Unnamed: 0</th>
+      <th>city</th>
+      <th>airport</th>
+      <th>depart_from</th>
+      <th>arrive_at</th>
+      <th>date</th>
+      <th>depart_time</th>
+      <th>arrival_time</th>
+      <th>price</th>
+      <th>airline</th>
+      <th>flight_duration</th>
+      <th>weather</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>5</th>
+      <td>5</td>
+      <td>New York</td>
+      <td>JFK</td>
+      <td>DTW</td>
+      <td>JFK</td>
+      <td>2021-12-21</td>
+      <td>7:00</td>
+      <td>8:43</td>
+      <td>250</td>
+      <td>JetBlue</td>
+      <td>1h 43m</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>6</td>
+      <td>New York</td>
+      <td>JFK</td>
+      <td>DTW</td>
+      <td>JFK</td>
+      <td>2021-12-21</td>
+      <td>10:10</td>
+      <td>12:00</td>
+      <td>250</td>
+      <td>Delta</td>
+      <td>1h 50m</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>7</td>
+      <td>New York</td>
+      <td>JFK</td>
+      <td>DTW</td>
+      <td>JFK</td>
+      <td>2021-12-21</td>
+      <td>4:10</td>
+      <td>6:01</td>
+      <td>250</td>
+      <td>Delta</td>
+      <td>1h 51m</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>8</td>
+      <td>New York</td>
+      <td>JFK</td>
+      <td>DTW</td>
+      <td>JFK</td>
+      <td>2021-12-21</td>
+      <td>8:50</td>
+      <td>10:41</td>
+      <td>399</td>
+      <td>Delta</td>
+      <td>1h 51m</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>9</td>
+      <td>New York</td>
+      <td>JFK</td>
+      <td>DTW</td>
+      <td>JFK</td>
+      <td>2021-12-21</td>
+      <td>7:00</td>
+      <td>8:59</td>
+      <td>399</td>
+      <td>Delta</td>
+      <td>1h 59m</td>
+      <td>46</td>
+    </tr>
+  </tbody>
+</table>
+    <p>If you want to check out the weather of your destination, <a href=http://forecast.weather.gov/MapClick.php?lat=40.6943&lon=-73.9249>you can click here!</a></p>
+    <p>If you want to check out your ticket, <a href=https://www.kayak.com/flights/DTW-JFK/2021-12-21?sort=bestflight_a>you can click here!</a></p>
+    <p> {{input_str}}</p>
+</body>
+</html>
+    

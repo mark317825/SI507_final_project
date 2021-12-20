@@ -1,0 +1,103 @@
+,city,airport,day1,day2,day3,depart_from,arrive_at,date,depart_time,arrival_time,price,airline,flight_duration
+0,New York,JFK,38,46,48,DTW,JFK,2021-12-20,7:00 ,8:38 ,$250,JetBlue,1h 38m
+1,New York,JFK,38,46,48,DTW,JFK,2021-12-20,8:00 ,12:52 ,$247,JetBlue,4h 52m
+2,New York,JFK,38,46,48,DTW,JFK,2021-12-20,10:10 ,12:00 ,$299,Delta,1h 50m
+3,New York,JFK,38,46,48,DTW,JFK,2021-12-20,4:10 ,6:01 ,$399,Delta,1h 51m
+4,New York,JFK,38,46,48,DTW,JFK,2021-12-20,8:50 ,10:41 ,$399,Delta,1h 51m
+5,New York,JFK,38,46,48,DTW,JFK,2021-12-21,7:00 ,8:43 ,$250,JetBlue,1h 43m
+6,New York,JFK,38,46,48,DTW,JFK,2021-12-21,10:10 ,12:00 ,$250,Delta,1h 50m
+7,New York,JFK,38,46,48,DTW,JFK,2021-12-21,4:10 ,6:01 ,$250,Delta,1h 51m
+8,New York,JFK,38,46,48,DTW,JFK,2021-12-21,8:50 ,10:41 ,$399,Delta,1h 51m
+9,New York,JFK,38,46,48,DTW,JFK,2021-12-21,7:00 ,8:59 ,$399,Delta,1h 59m
+10,New York,JFK,38,46,48,DTW,JFK,2021-12-22,10:10 ,12:00 ,$200,Delta,1h 50m
+11,New York,JFK,38,46,48,DTW,JFK,2021-12-22,7:00 ,8:59 ,$200,Delta,1h 59m
+12,New York,JFK,38,46,48,DTW,JFK,2021-12-22,4:10 ,6:01 ,$299,Delta,1h 51m
+13,New York,JFK,38,46,48,DTW,JFK,2021-12-22,8:50 ,10:41 ,$419,Delta,1h 51m
+14,New York,JFK,38,46,48,DTW,JFK,2021-12-22,8:00 ,3:11 ,$207,JetBlue,7h 11m
+15,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-20,3:18 ,8:27 ,$382,Spirit Airlines,8h 09m
+16,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-20,6:30 ,8:28 ,$431,Spirit Airlines,4h 58m
+17,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-20,7:05 ,7:22 ,$283,United Airlines,15h 17m
+18,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-20,12:25 ,2:30 ,$569,Delta,5h 05m
+19,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-20,3:50 ,5:55 ,$569,Delta,5h 05m
+20,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-21,10:59 ,12:54 ,$489,Spirit Airlines,4h 55m
+21,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-21,7:05 ,7:22 ,$283,United Airlines,15h 17m
+22,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-21,12:25 ,2:30 ,$569,Delta,5h 05m
+23,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-21,3:50 ,5:55 ,$569,Delta,5h 05m
+24,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-21,6:42 ,8:50 ,$569,Delta,5h 08m
+25,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-22,10:59 ,12:54 ,$431,Spirit Airlines,4h 55m
+26,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-22,10:59 ,12:54 ,$409,Spirit Airlines,4h 55m
+27,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-22,6:30 ,1:25 ,$314,"Spirit Airlines, Alaska Airlines ",21h 55m
+28,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-22,6:30 ,8:28 ,$481,Spirit Airlines,4h 58m
+29,Los Angeles,LAX,67,67,61,DTW,LAX,2021-12-22,3:50 ,5:55 ,$589,Delta,5h 05m
+30,Chicago,ORD,41,40,33,DTW,ORD,2021-12-20,4:05 ,4:29 ,$177,Delta,1h 24m
+31,Chicago,ORD,41,40,33,DTW,ORD,2021-12-20,12:40 ,1:07 ,$177,Delta,1h 27m
+32,Chicago,ORD,41,40,33,DTW,ORD,2021-12-20,8:50 ,9:17 ,$177,Delta,1h 27m
+33,Chicago,ORD,41,40,33,DTW,ORD,2021-12-20,1:43 ,2:18 ,$219,United Airlines,1h 35m
+34,Chicago,ORD,41,40,33,DTW,ORD,2021-12-20,8:50 ,9:28 ,$227,Delta,1h 38m
+35,Chicago,ORD,41,40,33,DTW,ORD,2021-12-21,4:05 ,4:29 ,$177,Delta,1h 24m
+36,Chicago,ORD,41,40,33,DTW,ORD,2021-12-21,6:11 ,10:40 ,$40,Amtrak,5h 29m
+37,Chicago,ORD,41,40,33,DTW,ORD,2021-12-21,12:40 ,1:07 ,$177,Delta,1h 27m
+38,Chicago,ORD,41,40,33,DTW,ORD,2021-12-21,8:50 ,9:17 ,$177,Delta,1h 27m
+39,Chicago,ORD,41,40,33,DTW,ORD,2021-12-21,11:25 ,11:57 ,$177,American Airlines,1h 32m
+40,Chicago,ORD,41,40,33,DTW,ORD,2021-12-22,4:05 ,4:29 ,$166,Delta,1h 24m
+41,Chicago,ORD,41,40,33,DTW,ORD,2021-12-22,4:00 ,9:15 ,$52,Greyhound,6h 15m
+42,Chicago,ORD,41,40,33,DTW,ORD,2021-12-22,12:40 ,1:07 ,$166,Delta,1h 27m
+43,Chicago,ORD,41,40,33,DTW,ORD,2021-12-22,8:50 ,9:17 ,$166,Delta,1h 27m
+44,Chicago,ORD,41,40,33,DTW,ORD,2021-12-22,11:25 ,11:57 ,$166,American Airlines,1h 32m
+45,Miami,MIA,82,81,80,DTW,MIA,2021-12-20,3:41 ,6:46 ,$292,Delta,3h 05m
+46,Miami,MIA,82,81,80,DTW,MIA,2021-12-20,4:39 ,12:55 ,$159,United Airlines,8h 16m
+47,Miami,MIA,82,81,80,DTW,MIA,2021-12-20,8:35 ,11:48 ,$292,Delta,3h 13m
+48,Miami,MIA,82,81,80,DTW,MIA,2021-12-20,12:26 ,3:40 ,$292,American Airlines,3h 14m
+49,Miami,MIA,82,81,80,DTW,MIA,2021-12-20,6:11 ,9:30 ,$292,American Airlines,3h 19m
+50,Miami,MIA,82,81,80,DTW,MIA,2021-12-21,8:55 ,12:19 ,$232,Spirit Airlines,3h 24m
+51,Miami,MIA,82,81,80,DTW,MIA,2021-12-21,8:55 ,12:19 ,$194,Spirit Airlines,3h 24m
+52,Miami,MIA,82,81,80,DTW,MIA,2021-12-21,3:41 ,6:46 ,$292,Delta,3h 05m
+53,Miami,MIA,82,81,80,DTW,MIA,2021-12-21,8:35 ,11:48 ,$292,Delta,3h 13m
+54,Miami,MIA,82,81,80,DTW,MIA,2021-12-21,12:26 ,3:40 ,$292,American Airlines,3h 14m
+55,Miami,MIA,82,81,80,DTW,MIA,2021-12-22,8:55 ,12:19 ,$262,Spirit Airlines,3h 24m
+56,Miami,MIA,82,81,80,DTW,MIA,2021-12-22,3:41 ,6:46 ,$254,Delta,3h 05m
+57,Miami,MIA,82,81,80,DTW,MIA,2021-12-22,7:14 ,12:19 ,$243,Spirit Airlines,5h 05m
+58,Miami,MIA,82,81,80,DTW,MIA,2021-12-22,8:35 ,11:48 ,$254,Delta,3h 13m
+59,Miami,MIA,82,81,80,DTW,MIA,2021-12-22,12:26 ,3:40 ,$254,American Airlines,3h 14m
+60,Dallas,DFW,48,58,62,DTW,DFW,2021-12-20,3:23 ,5:26 ,$310,Delta,3h 03m
+61,Dallas,DFW,48,58,62,DTW,DFW,2021-12-20,8:59 ,11:03 ,$310,Delta,3h 04m
+62,Dallas,DFW,48,58,62,DTW,DFW,2021-12-20,12:45 ,2:49 ,$310,Delta,3h 04m
+63,Dallas,DFW,48,58,62,DTW,DFW,2021-12-20,8:25 ,10:36 ,$310,Delta,3h 11m
+64,Dallas,DFW,48,58,62,DTW,DFW,2021-12-20,3:32 ,5:45 ,$310,American Airlines,3h 13m
+65,Dallas,DFW,48,58,62,DTW,DFW,2021-12-21,3:23 ,5:26 ,$310,Delta,3h 03m
+66,Dallas,DFW,48,58,62,DTW,DFW,2021-12-21,8:59 ,11:03 ,$310,Delta,3h 04m
+67,Dallas,DFW,48,58,62,DTW,DFW,2021-12-21,12:45 ,2:49 ,$310,Delta,3h 04m
+68,Dallas,DFW,48,58,62,DTW,DFW,2021-12-21,8:25 ,10:36 ,$310,Delta,3h 11m
+69,Dallas,DFW,48,58,62,DTW,DFW,2021-12-21,7:30 ,9:45 ,$310,American Airlines,3h 15m
+70,Dallas,DFW,48,58,62,DTW,DFW,2021-12-22,6:30 ,5:38 ,$274,Spirit Airlines,12h 08m
+71,Dallas,DFW,48,58,62,DTW,DFW,2021-12-22,3:23 ,5:26 ,$299,Delta,3h 03m
+72,Dallas,DFW,48,58,62,DTW,DFW,2021-12-22,6:30 ,5:38 ,$274,Spirit Airlines,12h 08m
+73,Dallas,DFW,48,58,62,DTW,DFW,2021-12-22,8:59 ,11:03 ,$299,Delta,3h 04m
+74,Dallas,DFW,48,58,62,DTW,DFW,2021-12-22,12:45 ,2:49 ,$299,Delta,3h 04m
+75,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-20,12:54 ,2:35 ,$399,American Airlines,1h 41m
+76,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-20,9:30 ,5:02 ,$170,Amtrak,19h 32m
+77,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-20,6:15 ,7:56 ,$399,Delta,1h 41m
+78,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-20,10:20 ,12:05 ,$399,Delta,1h 45m
+79,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-20,2:25 ,4:10 ,$399,Delta,1h 45m
+80,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-21,1:30 ,7:51 ,$241,Spirit Airlines,6h 21m
+81,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-21,12:54 ,2:35 ,$399,American Airlines,1h 41m
+82,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-21,7:43 ,11:54 ,$184,American Airlines,4h 11m
+83,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-21,6:15 ,7:56 ,$399,Delta,1h 41m
+84,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-21,10:20 ,12:05 ,$399,Delta,1h 45m
+85,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-22,12:54 ,2:35 ,$399,American Airlines,1h 41m
+86,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-22,7:43 ,11:54 ,$173,American Airlines,4h 11m
+87,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-22,5:58 ,7:44 ,$399,American Airlines,1h 46m
+88,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-22,4:11 ,5:57 ,$399,American Airlines,1h 46m
+89,Philadelphia,PHL,39,45,47,DTW,PHL,2021-12-22,6:35 ,8:25 ,$399,American Airlines,1h 50m
+90,Washington,WAS,43,48,51,DTW,WAS,2021-12-20,3:18 ,4:46 ,$87,Spirit Airlines,1h 28m
+91,Washington,WAS,43,48,51,DTW,WAS,2021-12-20,5:42 ,7:17 ,$177,American Airlines,1h 35m
+92,Washington,WAS,43,48,51,DTW,WAS,2021-12-20,10:29 ,11:59 ,$249,American Airlines,1h 30m
+93,Washington,WAS,43,48,51,DTW,WAS,2021-12-20,6:05 ,7:47 ,"$1,596",American Airlines,1h 42m
+94,Washington,WAS,43,48,51,DTW,WAS,2021-12-20,6:15 ,7:40 ,Info,Southwest,1h 25m
+95,Washington,WAS,43,48,51,DTW,WAS,2021-12-21,6:15 ,7:40 ,Info,Southwest,1h 25m
+96,Washington,WAS,43,48,51,DTW,WAS,2021-12-21,5:50 ,7:30 ,Info,Southwest,1h 40m
+97,Washington,WAS,43,48,51,DTW,WAS,2021-12-22,10:29 ,11:59 ,$166,American Airlines,1h 30m
+98,Washington,WAS,43,48,51,DTW,WAS,2021-12-22,10:29 ,11:59 ,$166,American Airlines,1h 30m
+99,Washington,WAS,43,48,51,DTW,WAS,2021-12-22,5:42 ,7:17 ,$166,American Airlines,1h 35m
+100,Washington,WAS,43,48,51,DTW,WAS,2021-12-22,5:42 ,7:17 ,Info,American Airlines,1h 35m
+101,Washington,WAS,43,48,51,DTW,WAS,2021-12-22,6:05 ,7:47 ,Info,American Airlines,1h 42m

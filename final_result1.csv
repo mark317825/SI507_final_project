@@ -1,0 +1,97 @@
+Unnamed: 0,city,airport,depart_from,arrive_at,date,depart_time,arrival_time,price,airline,flight_duration,weather
+0,New York,JFK,DTW,JFK,2021-12-20,7:00 ,8:38 ,250,JetBlue,1h 38m,38
+1,New York,JFK,DTW,JFK,2021-12-20,8:00 ,12:52 ,247,JetBlue,4h 52m,38
+2,New York,JFK,DTW,JFK,2021-12-20,10:10 ,12:00 ,299,Delta,1h 50m,38
+3,New York,JFK,DTW,JFK,2021-12-20,4:10 ,6:01 ,399,Delta,1h 51m,38
+4,New York,JFK,DTW,JFK,2021-12-20,8:50 ,10:41 ,399,Delta,1h 51m,38
+5,New York,JFK,DTW,JFK,2021-12-21,7:00 ,8:43 ,250,JetBlue,1h 43m,46
+6,New York,JFK,DTW,JFK,2021-12-21,10:10 ,12:00 ,250,Delta,1h 50m,46
+7,New York,JFK,DTW,JFK,2021-12-21,4:10 ,6:01 ,250,Delta,1h 51m,46
+8,New York,JFK,DTW,JFK,2021-12-21,8:50 ,10:41 ,399,Delta,1h 51m,46
+9,New York,JFK,DTW,JFK,2021-12-21,7:00 ,8:59 ,399,Delta,1h 59m,46
+10,New York,JFK,DTW,JFK,2021-12-22,10:10 ,12:00 ,200,Delta,1h 50m,48
+11,New York,JFK,DTW,JFK,2021-12-22,7:00 ,8:59 ,200,Delta,1h 59m,48
+12,New York,JFK,DTW,JFK,2021-12-22,4:10 ,6:01 ,299,Delta,1h 51m,48
+13,New York,JFK,DTW,JFK,2021-12-22,8:50 ,10:41 ,419,Delta,1h 51m,48
+14,New York,JFK,DTW,JFK,2021-12-22,8:00 ,3:11 ,207,JetBlue,7h 11m,48
+15,Los Angeles,LAX,DTW,LAX,2021-12-20,3:18 ,8:27 ,382,Spirit Airlines,8h 09m,67
+16,Los Angeles,LAX,DTW,LAX,2021-12-20,6:30 ,8:28 ,431,Spirit Airlines,4h 58m,67
+17,Los Angeles,LAX,DTW,LAX,2021-12-20,7:05 ,7:22 ,283,United Airlines,15h 17m,67
+18,Los Angeles,LAX,DTW,LAX,2021-12-20,12:25 ,2:30 ,569,Delta,5h 05m,67
+19,Los Angeles,LAX,DTW,LAX,2021-12-20,3:50 ,5:55 ,569,Delta,5h 05m,67
+20,Los Angeles,LAX,DTW,LAX,2021-12-21,10:59 ,12:54 ,489,Spirit Airlines,4h 55m,67
+21,Los Angeles,LAX,DTW,LAX,2021-12-21,7:05 ,7:22 ,283,United Airlines,15h 17m,67
+22,Los Angeles,LAX,DTW,LAX,2021-12-21,12:25 ,2:30 ,569,Delta,5h 05m,67
+23,Los Angeles,LAX,DTW,LAX,2021-12-21,3:50 ,5:55 ,569,Delta,5h 05m,67
+24,Los Angeles,LAX,DTW,LAX,2021-12-21,6:42 ,8:50 ,569,Delta,5h 08m,67
+25,Los Angeles,LAX,DTW,LAX,2021-12-22,10:59 ,12:54 ,431,Spirit Airlines,4h 55m,61
+26,Los Angeles,LAX,DTW,LAX,2021-12-22,10:59 ,12:54 ,409,Spirit Airlines,4h 55m,61
+27,Los Angeles,LAX,DTW,LAX,2021-12-22,6:30 ,1:25 ,314,"Spirit Airlines, Alaska Airlines ",21h 55m,61
+28,Los Angeles,LAX,DTW,LAX,2021-12-22,6:30 ,8:28 ,481,Spirit Airlines,4h 58m,61
+29,Los Angeles,LAX,DTW,LAX,2021-12-22,3:50 ,5:55 ,589,Delta,5h 05m,61
+30,Chicago,ORD,DTW,ORD,2021-12-20,4:05 ,4:29 ,177,Delta,1h 24m,41
+31,Chicago,ORD,DTW,ORD,2021-12-20,12:40 ,1:07 ,177,Delta,1h 27m,41
+32,Chicago,ORD,DTW,ORD,2021-12-20,8:50 ,9:17 ,177,Delta,1h 27m,41
+33,Chicago,ORD,DTW,ORD,2021-12-20,1:43 ,2:18 ,219,United Airlines,1h 35m,41
+34,Chicago,ORD,DTW,ORD,2021-12-20,8:50 ,9:28 ,227,Delta,1h 38m,41
+35,Chicago,ORD,DTW,ORD,2021-12-21,4:05 ,4:29 ,177,Delta,1h 24m,40
+36,Chicago,ORD,DTW,ORD,2021-12-21,6:11 ,10:40 ,40,Amtrak,5h 29m,40
+37,Chicago,ORD,DTW,ORD,2021-12-21,12:40 ,1:07 ,177,Delta,1h 27m,40
+38,Chicago,ORD,DTW,ORD,2021-12-21,8:50 ,9:17 ,177,Delta,1h 27m,40
+39,Chicago,ORD,DTW,ORD,2021-12-21,11:25 ,11:57 ,177,American Airlines,1h 32m,40
+40,Chicago,ORD,DTW,ORD,2021-12-22,4:05 ,4:29 ,166,Delta,1h 24m,33
+41,Chicago,ORD,DTW,ORD,2021-12-22,4:00 ,9:15 ,52,Greyhound,6h 15m,33
+42,Chicago,ORD,DTW,ORD,2021-12-22,12:40 ,1:07 ,166,Delta,1h 27m,33
+43,Chicago,ORD,DTW,ORD,2021-12-22,8:50 ,9:17 ,166,Delta,1h 27m,33
+44,Chicago,ORD,DTW,ORD,2021-12-22,11:25 ,11:57 ,166,American Airlines,1h 32m,33
+45,Miami,MIA,DTW,MIA,2021-12-20,3:41 ,6:46 ,292,Delta,3h 05m,82
+46,Miami,MIA,DTW,MIA,2021-12-20,4:39 ,12:55 ,159,United Airlines,8h 16m,82
+47,Miami,MIA,DTW,MIA,2021-12-20,8:35 ,11:48 ,292,Delta,3h 13m,82
+48,Miami,MIA,DTW,MIA,2021-12-20,12:26 ,3:40 ,292,American Airlines,3h 14m,82
+49,Miami,MIA,DTW,MIA,2021-12-20,6:11 ,9:30 ,292,American Airlines,3h 19m,82
+50,Miami,MIA,DTW,MIA,2021-12-21,8:55 ,12:19 ,232,Spirit Airlines,3h 24m,81
+51,Miami,MIA,DTW,MIA,2021-12-21,8:55 ,12:19 ,194,Spirit Airlines,3h 24m,81
+52,Miami,MIA,DTW,MIA,2021-12-21,3:41 ,6:46 ,292,Delta,3h 05m,81
+53,Miami,MIA,DTW,MIA,2021-12-21,8:35 ,11:48 ,292,Delta,3h 13m,81
+54,Miami,MIA,DTW,MIA,2021-12-21,12:26 ,3:40 ,292,American Airlines,3h 14m,81
+55,Miami,MIA,DTW,MIA,2021-12-22,8:55 ,12:19 ,262,Spirit Airlines,3h 24m,80
+56,Miami,MIA,DTW,MIA,2021-12-22,3:41 ,6:46 ,254,Delta,3h 05m,80
+57,Miami,MIA,DTW,MIA,2021-12-22,7:14 ,12:19 ,243,Spirit Airlines,5h 05m,80
+58,Miami,MIA,DTW,MIA,2021-12-22,8:35 ,11:48 ,254,Delta,3h 13m,80
+59,Miami,MIA,DTW,MIA,2021-12-22,12:26 ,3:40 ,254,American Airlines,3h 14m,80
+60,Dallas,DFW,DTW,DFW,2021-12-20,3:23 ,5:26 ,310,Delta,3h 03m,48
+61,Dallas,DFW,DTW,DFW,2021-12-20,8:59 ,11:03 ,310,Delta,3h 04m,48
+62,Dallas,DFW,DTW,DFW,2021-12-20,12:45 ,2:49 ,310,Delta,3h 04m,48
+63,Dallas,DFW,DTW,DFW,2021-12-20,8:25 ,10:36 ,310,Delta,3h 11m,48
+64,Dallas,DFW,DTW,DFW,2021-12-20,3:32 ,5:45 ,310,American Airlines,3h 13m,48
+65,Dallas,DFW,DTW,DFW,2021-12-21,3:23 ,5:26 ,310,Delta,3h 03m,58
+66,Dallas,DFW,DTW,DFW,2021-12-21,8:59 ,11:03 ,310,Delta,3h 04m,58
+67,Dallas,DFW,DTW,DFW,2021-12-21,12:45 ,2:49 ,310,Delta,3h 04m,58
+68,Dallas,DFW,DTW,DFW,2021-12-21,8:25 ,10:36 ,310,Delta,3h 11m,58
+69,Dallas,DFW,DTW,DFW,2021-12-21,7:30 ,9:45 ,310,American Airlines,3h 15m,58
+70,Dallas,DFW,DTW,DFW,2021-12-22,6:30 ,5:38 ,274,Spirit Airlines,12h 08m,62
+71,Dallas,DFW,DTW,DFW,2021-12-22,3:23 ,5:26 ,299,Delta,3h 03m,62
+72,Dallas,DFW,DTW,DFW,2021-12-22,6:30 ,5:38 ,274,Spirit Airlines,12h 08m,62
+73,Dallas,DFW,DTW,DFW,2021-12-22,8:59 ,11:03 ,299,Delta,3h 04m,62
+74,Dallas,DFW,DTW,DFW,2021-12-22,12:45 ,2:49 ,299,Delta,3h 04m,62
+75,Philadelphia,PHL,DTW,PHL,2021-12-20,12:54 ,2:35 ,399,American Airlines,1h 41m,39
+76,Philadelphia,PHL,DTW,PHL,2021-12-20,9:30 ,5:02 ,170,Amtrak,19h 32m,39
+77,Philadelphia,PHL,DTW,PHL,2021-12-20,6:15 ,7:56 ,399,Delta,1h 41m,39
+78,Philadelphia,PHL,DTW,PHL,2021-12-20,10:20 ,12:05 ,399,Delta,1h 45m,39
+79,Philadelphia,PHL,DTW,PHL,2021-12-20,2:25 ,4:10 ,399,Delta,1h 45m,39
+80,Philadelphia,PHL,DTW,PHL,2021-12-21,1:30 ,7:51 ,241,Spirit Airlines,6h 21m,45
+81,Philadelphia,PHL,DTW,PHL,2021-12-21,12:54 ,2:35 ,399,American Airlines,1h 41m,45
+82,Philadelphia,PHL,DTW,PHL,2021-12-21,7:43 ,11:54 ,184,American Airlines,4h 11m,45
+83,Philadelphia,PHL,DTW,PHL,2021-12-21,6:15 ,7:56 ,399,Delta,1h 41m,45
+84,Philadelphia,PHL,DTW,PHL,2021-12-21,10:20 ,12:05 ,399,Delta,1h 45m,45
+85,Philadelphia,PHL,DTW,PHL,2021-12-22,12:54 ,2:35 ,399,American Airlines,1h 41m,47
+86,Philadelphia,PHL,DTW,PHL,2021-12-22,7:43 ,11:54 ,173,American Airlines,4h 11m,47
+87,Philadelphia,PHL,DTW,PHL,2021-12-22,5:58 ,7:44 ,399,American Airlines,1h 46m,47
+88,Philadelphia,PHL,DTW,PHL,2021-12-22,4:11 ,5:57 ,399,American Airlines,1h 46m,47
+89,Philadelphia,PHL,DTW,PHL,2021-12-22,6:35 ,8:25 ,399,American Airlines,1h 50m,47
+90,Washington,WAS,DTW,WAS,2021-12-20,3:18 ,4:46 ,87,Spirit Airlines,1h 28m,43
+91,Washington,WAS,DTW,WAS,2021-12-20,5:42 ,7:17 ,177,American Airlines,1h 35m,43
+92,Washington,WAS,DTW,WAS,2021-12-20,10:29 ,11:59 ,249,American Airlines,1h 30m,43
+97,Washington,WAS,DTW,WAS,2021-12-22,10:29 ,11:59 ,166,American Airlines,1h 30m,51
+98,Washington,WAS,DTW,WAS,2021-12-22,10:29 ,11:59 ,166,American Airlines,1h 30m,51
+99,Washington,WAS,DTW,WAS,2021-12-22,5:42 ,7:17 ,166,American Airlines,1h 35m,51

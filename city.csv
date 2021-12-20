@@ -1,0 +1,11 @@
+,city,state_id,lat,lng,airport
+0,New York,NY,40.6943,-73.9249,JFK
+1,Los Angeles,CA,34.1139,-118.4068,LAX
+2,Chicago,IL,41.8373,-87.6862,ORD
+3,Miami,FL,25.7839,-80.2102,MIA
+4,Dallas,TX,32.7936,-96.7662,DFW
+5,Philadelphia,PA,40.0077,-75.1339,PHL
+6,Houston,TX,29.7863,-95.3889,HOU
+7,Atlanta,GA,33.7627,-84.4224,ATL
+8,Washington,DC,38.9047,-77.0163,WAS
+9,Boston,MA,42.3188,-71.0846,BOS
